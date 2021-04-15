@@ -1,0 +1,76 @@
+.app-header {
+  background-color: #6929c4;
+  min-height: 12vh;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(6px + 2vmin);
+  color: white;
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+}
+
+.search-field {
+  height: calc(1.5em + 0.75rem + 2px);
+  width: 50%;
+  line-height: 1.5;
+  padding: 1.2rem 0.75rem;
+  font-size: 1rem;
+  font-weight: 400;
+  border-radius: 0.25rem;
+  border: 1px solid rgba(80, 96, 138, 0.3);
+  outline: none;
+  background-clip: padding-box;
+}
+
+.feedtype-dropdown {
+  padding: 0.4rem 0.75rem;
+  font-size: 1rem;
+  font-weight: 400;
+  border-radius: 0.25rem;
+}
+
+.feedtype-dropdown-container {
+  height: calc(1.5em + 0.75rem + 2px);
+  line-height: 1.5;
+}
+
+.errorMessage {
+  margin: auto;
+  font-weight: bold;
+  color: rgb(161, 15, 15);
+}
+
+.feed-name {
+  font-size: 14px;
+  background-color: #fff;
+  background-clip: border-box;
+  border-radius: 0.25rem;
+  border: 0;
+  box-shadow: 0 6px 14px 10px rgba(0, 0, 0, 0.05);
+  height: 23rem;
+}
+
+.feedType-category {
+  color: #6929c4;
+  font-weight: 600;
+  font-size: 1rem;
+}
+
+.col-name {
+  height: 22rem;
+}
+
+.image-div {
+  width: 100%;
+  height: 160px;
+}
+
+.feedType-image {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  border-radius: 4px 4px 0px 0px;
+}
