@@ -1,4 +1,4 @@
-## Aula Music Collection
+## MY Music Collection
 
 This is a website that displays the top 100 albums and songs based on the iTunes API.
 
