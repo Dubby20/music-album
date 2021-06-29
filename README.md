@@ -13,7 +13,7 @@ Step by step instructions on how to get the code setup locally. This may include
 
 - clone the repository into that directory.
 ```
-git clone https://aula-education-ukspkv@git.codesubmit.io/aula-education/aulatunes-ukspkv
+git clone https://github.com/Dubby20/music-album.git
 ```
 
 - Install all the project's dependencies:
